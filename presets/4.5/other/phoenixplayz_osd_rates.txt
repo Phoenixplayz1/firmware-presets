@@ -3,7 +3,7 @@
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: OSD, TBS, TBS Core, navigation, freestyle, mountain surfing, MtnSurf
-#$ AUTHOR: phoenixplayz
+#$ AUTHOR: Phoenixplayz1
 
 #$ DESCRIPTION: I lay out my OSD the same way on every rig, so I always know
 #$ DESCRIPTION: where to find things. Perhaps my layout will make sense to you
