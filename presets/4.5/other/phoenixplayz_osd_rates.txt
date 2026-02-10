@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OTHER
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: OSD, TBS, TBS Core, navigation, longrange, mountain surfing, MtnSurf
+#$ KEYWORDS: OSD, TBS, TBS Core, navigation, freestyle, mountain surfing, MtnSurf
 #$ AUTHOR: phoenixplayz
 
 #$ DESCRIPTION: I lay out my OSD the same way on every rig, so I always know
